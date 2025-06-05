@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* :root {
+  --color-primary: #2a7d7d;
+  --color-secondary: #9ba657;
+  --color-surface: #e9eceb;
+}
+
+body {
+  @apply bg-surface text-gray-900 antialiased;
+} */
+
